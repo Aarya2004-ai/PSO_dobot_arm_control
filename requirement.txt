@@ -1,0 +1,4 @@
+numpy
+pyswarms
+pyserial
+socket
