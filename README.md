@@ -12,8 +12,8 @@ This project uses **Particle Swarm Optimization (PSO)** for **inverse kinematics
 ## 🛠️ Installation
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/dobot-pso-wifi.git
-cd dobot-pso-wifi
+git clone https://github.com/Aarya2004-ai/PSO_dobot_arm_control.git
+cd PSO_dobot_arm_control
 ```
 
 ### 2️⃣ Create a Virtual Environment (Recommended)
